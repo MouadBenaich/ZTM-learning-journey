@@ -1,6 +1,5 @@
 # ZTM Learning Journey — The Complete Web Developer: Zero to Mastery
 
-<<<<<<< HEAD
 A living journal of my progress through ZTM’s "The Complete Web Developer" course. I’m tracking modules, exercises, notes, and reflections as I go — this repo shows both what I learned and how I’m growing.
 
 ## Current progress
