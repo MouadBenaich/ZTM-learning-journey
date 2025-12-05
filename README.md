@@ -87,6 +87,19 @@ It’s a living journal of what I’ve learned, exercises I’ve completed, and 
   - HTML Tags (8m 39s)
   - HTML Tags 2 (1m 50s)
 
+  ### 🌙 Night updates (Dec 6, 2025)
+- Self Closing HTML Tags (5m 34s)
+- Anchor Tag (4m 52s)
+- Q&A: index.html (2m 05s)
+- Q&A: Relative vs Absolute Path (3m 46s)
+- Course Check-In
+- Advanced HTML5 (36m 26s)
+  - Code Along: Files for Upcoming Videos
+  - HTML Forms (10m 57s)
+  - HTML Forms 2 (3m 09s)
+  - Submitting A Form (8m 18s)
+
+
 ---
 
 ## 🗂 Repository Structure
