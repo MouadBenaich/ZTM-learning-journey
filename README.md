@@ -76,6 +76,17 @@ It’s a living journal of what I’ve learned, exercises I’ve completed, and 
   - Future of A.I. & How to Adapt (7m 08s)
   - How to Use ChatGPT (6m 56s)
 
+  ### 🌙 Night updates (Dec 5, 2025)
+- Don't Be A Junior (3m 32s)
+- HTML5 (38m 05s)
+  - Build Your First Website (7m 48s)
+  - Resources: Your Text Editor
+  - Developer Fundamentals III (3m 31s)
+  - Quick Note About w3schools
+  - How To Ask Questions
+  - HTML Tags (8m 39s)
+  - HTML Tags 2 (1m 50s)
+
 ---
 
 ## 🗂 Repository Structure
