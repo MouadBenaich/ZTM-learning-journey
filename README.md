@@ -39,4 +39,3 @@ A living journal of my progress through ZTM’s "The Complete Web Developer" cou
 
 ## How I track progress
 Each study session gets a dated log in `progress/` with Topic, Key Takeaways, Practice, and Questions.
-
