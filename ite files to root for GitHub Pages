@@ -1,0 +1,108 @@
+[33mcommit 4191c7a65327e3838768b3cc7a0e79fbb7df5165[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Sat Dec 6 21:03:25 2025 +0100
+
+    Upload website files to main branch
+
+[33mcommit faee9ae805ae3e595cff391652c5e7ed420aef7a[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Sat Dec 6 01:14:00 2025 +0100
+
+    Cleaned up Dec 4 logs: removed duplicate and updated main file
+
+[33mcommit bc7566c0ad7fa2d3af800c435d8254ce10cfcb42[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Sat Dec 6 01:10:24 2025 +0100
+
+    Linked Dec 4 progress log in README.md
+
+[33mcommit 9aa72a5ba8786b9826d050949fd074263c8a658e[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Sat Dec 6 01:04:21 2025 +0100
+
+    Added Dec 6 progress log: Advanced HTML5 lessons
+
+[33mcommit 1408139676f11090f34849a19cfc531c54a21688[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Sat Dec 6 00:57:58 2025 +0100
+
+    Added Dec 6 progress: Advanced HTML5 lessons
+
+[33mcommit 1a5e17de31fba0897dd566750c043dec051ac575[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 22:00:23 2025 +0100
+
+    Moved index.html to exercises folder and renamed to try-or-die.html
+
+[33mcommit dcbd0ddf8bab97e94fc72d2c55d4325532a9a4bd[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 21:54:36 2025 +0100
+
+    Added Dec 5 progress: Don't Be A Junior + HTML5 lessons
+
+[33mcommit b063b8e81b8e080e075cae387ae656a940b4c1fb[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 21:35:44 2025 +0100
+
+    Removed old README.md
+
+[33mcommit 809fbe51dee6442f5f69f15a3a0990d59e19cdfd[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 21:35:23 2025 +0100
+
+    Added December 5 progress log
+
+[33mcommit b94c96a7a7ee4d1a5e5aae023627f7f41afb52f0[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 20:52:57 2025 +0100
+
+    Added HTML5-only project: Learning Progress Tracker
+
+[33mcommit ccc5f0f57329f71726f040e1fe37d544d25e5e9c[m
+Merge: 4c3707f 7858588
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 20:48:43 2025 +0100
+
+    Kept remote changes in README.md
+
+[33mcommit 4c3707f77180984b1b62811d0703cd215d0cf478[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 20:41:52 2025 +0100
+
+    Day X progress: Completed 8% of ZTM Web Developer 2026 course (Intro, Internet, History, AI, HTML5 basics)
+
+[33mcommit 78585880ef7a98b3e6e7156736bc9c228e42a45f[m
+Author: MouadBenaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 00:28:55 2025 +0100
+
+    Update README.md
+
+[33mcommit bd9aea1a149fe621d2c680429f52104d00ff8640[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Fri Dec 5 00:25:35 2025 +0100
+
+    docs: update README with latest progress
+
+[33mcommit 2cd9e781a278e750229d739f7d9aa97f6e483432[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Thu Dec 4 23:50:01 2025 +0100
+
+    docs(progress): add full night updates for 2025-12-04
+
+[33mcommit 086e073256a22447cee9508b96cc2a7546e3133b[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Thu Dec 4 23:46:54 2025 +0100
+
+    docs(progress): add night updates for 2025-12-04
+
+[33mcommit 04ed4adcdc89fc7070c4c9881e80ca86e99c5f4c[m[33m ([m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Thu Dec 4 21:39:45 2025 +0100
+
+    docs(progress): add 2025-12-05 study log
+
+[33mcommit 1d40ad6f7d7737f359ed5d4bc0cf9281c4140d57[m
+Author: Mouad Benaich <mobenchiso@gmail.com>
+Date:   Thu Dec 4 21:13:03 2025 +0100
+
+    Initial commit: add README, progress logs, notes, exercises
