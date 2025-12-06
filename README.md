@@ -99,6 +99,11 @@ It’s a living journal of what I’ve learned, exercises I’ve completed, and 
   - HTML Forms 2 (3m 09s)
   - Submitting A Form (8m 18s)
 
+## 📅 Progress Logs
+- [December 4, 2025](progress/2025-12-04.md)
+- [December 5, 2025](progress/2025-12-05.md)
+- [December 6, 2025](progress/2025-12-06.md)
+
 
 ---
 
