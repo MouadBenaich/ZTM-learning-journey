@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~17%**
+**Current completion: ~21%**
 
 ### ✅ Completed Modules
 
@@ -103,6 +103,31 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 8, 2025**
+#### **Bootstrap, Templates & Startup Landing Page (1h 46m)**
+- Evolving Technology (4m 47s)  
+- Bootstrap Introduction (4m 00s)  
+- Quick Note: Upcoming Lesson  
+- Just Watch: Bootstrap (8m 51s)  
+- Bootstrap 5 Update (4m 18s)  
+- Exercise: Changing Versions  
+- Fast and the Furious Bootstrap (5m 08s)  
+- Exercise: Fast and the Furious Bootstrap Challenge  
+- Bootstrap Grid (5m 18s)  
+- Free Resources for Our Project  
+- Exercise: Startup Landing Page (0m 54s)  
+- Exercise: Startup Landing Page 2 (3m 58s)  
+- Exercise: Startup Landing Page 3 (8m 23s)  
+- Quick Note: The `<hr>` tag  
+- Exercise: Startup Landing Page 4 (8m 25s)  
+- Bootstrap 5.2+ Button Hover Update  
+- Exercise: Startup Landing Page 5 (11m 33s)  
+- Quick Note: Text Not Centered?  
+- Quick Note: Mailchimp  
+- Exercise: Adding Email Subscribe Form with MailChimp (9m 21s)
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -125,7 +150,8 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 4, 2025](progress/2025-12-04.md)  
 - [December 5, 2025](progress/2025-12-05.md)  
 - [December 6, 2025](progress/2025-12-06.md)  
-- [December 7, 2025](progress/2025-12-07.md) *(to be created)*  
+- [December 7, 2025](progress/2025-12-07.md)  
+- [December 8, 2025](progress/2025-12-08.md)  
 
 ---
 
