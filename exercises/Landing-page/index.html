@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Landing Page</title>
+
+    <!-- Bootstrap 5 CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- ✅ NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm py-3">
+    <div class="container">
+        <a class="navbar-brand fw-bold fs-3" href="#">ZTM Landing</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+                <li class="nav-item"><a class="nav-link" href="#pricing">Pricing</a></li>
+                <li class="nav-item"><a class="nav-link" href="#testimonials">Testimonials</a></li>
+                <li class="nav-item"><a class="btn btn-primary ms-3" href="#contact">Get Started</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- ✅ HERO SECTION -->
+<section class="hero d-flex align-items-center">
+    <div class="container text-center">
+        <h1 class="display-4 fw-bold">Build Your Future as a Web Developer</h1>
+        <p class="lead mt-3 mb-4">A modern landing page built using Bootstrap, Flexbox, and responsive design — based on everything I’ve learned so far.</p>
+        <a href="#contact" class="btn btn-primary btn-lg px-4 py-2">Start Now</a>
+    </div>
+</section>
+
+<!-- ✅ FEATURES -->
+<section id="features" class="py-5">
+    <div class="container text-center">
+        <h2 class="fw-bold mb-4">Features</h2>
+        <div class="row g-4">
+
+            <div class="col-md-4">
+                <div class="feature-box p-4 shadow-sm rounded">
+                    <h4 class="fw-bold">Fast & Responsive</h4>
+                    <p>Built with Bootstrap 5 and modern CSS for a smooth experience on all devices.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="feature-box p-4 shadow-sm rounded">
+                    <h4 class="fw-bold">Clean Code</h4>
+                    <p>Readable, maintainable, and scalable — following best practices from the ZTM course.</p>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="feature-box p-4 shadow-sm rounded">
+                    <h4 class="fw-bold">Modern UI</h4>
+                    <p>Beautiful layout using Flexbox, spacing utilities, and Bootstrap components.</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- ✅ PRICING -->
+<section id="pricing" class="py-5 bg-light">
+    <div class="container text-center">
+        <h2 class="fw-bold mb-4">Pricing</h2>
+
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="pricing-card p-4 shadow-sm rounded bg-white">
+                    <h3 class="fw-bold">Starter</h3>
+                    <p class="display-6 fw-bold">$9</p>
+                    <p>Perfect for beginners starting their journey.</p>
+                    <a href="#contact" class="btn btn-outline-primary w-100">Choose Plan</a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="pricing-card p-4 shadow-sm rounded bg-white">
+                    <h3 class="fw-bold">Pro</h3>
+                    <p class="display-6 fw-bold">$29</p>
+                    <p>For serious learners who want to level up.</p>
+                    <a href="#contact" class="btn btn-primary w-100">Choose Plan</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ✅ TESTIMONIALS -->
+<section id="testimonials" class="py-5">
+    <div class="container text-center">
+        <h2 class="fw-bold mb-4">What Students Say</h2>
+
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="testimonial p-4 shadow-sm rounded">
+                    <p>"This landing page looks amazing and modern!"</p>
+                    <h6 class="fw-bold mt-3">— Student A</h6>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="testimonial p-4 shadow-sm rounded">
+                    <p>"Bootstrap makes everything so fast and responsive."</p>
+                    <h6 class="fw-bold mt-3">— Student B</h6>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="testimonial p-4 shadow-sm rounded">
+                    <p>"Clean code, great structure, easy to customize."</p>
+                    <h6 class="fw-bold mt-3">— Student C</h6>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ✅ CONTACT FORM -->
+<section id="contact" class="py-5 bg-light">
+    <div class="container">
+        <h2 class="fw-bold text-center mb-4">Get in Touch</h2>
+
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <form class="p-4 shadow-sm bg-white rounded">
+                    <div class="mb-3">
+                        <label class="form-label">Name</label>
+                        <input type="text" class="form-control" placeholder="Your name">
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Email</label>
+                        <input type="email" class="form-control" placeholder="Your email">
+                    </div>
+
+                    <div class="mb-3">
+                        <label class="form-label">Message</label>
+                        <textarea class="form-control" rows="4" placeholder="Your message"></textarea>
+                    </div>
+
+                    <button class="btn btn-primary w-100">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ✅ FOOTER -->
+<footer class="py-3 text-center bg-white shadow-sm mt-5">
+    <p class="mb-0">© 2025 Modern Landing Page — Built with Bootstrap & Love</p>
+</footer>
+
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
