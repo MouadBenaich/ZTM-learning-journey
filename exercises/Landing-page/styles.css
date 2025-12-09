@@ -1,10 +1,44 @@
-/* ✅ HERO SECTION */
+/* ✅ GLOBAL FONT */
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+/* ✅ HERO SECTION WITH BACKGROUND IMAGE */
 .hero {
     height: 90vh;
-    background: linear-gradient(to bottom right, #4f46e5, #3b82f6);
+    background: url('https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80')
+        center/cover no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.6);
     color: white;
     text-align: center;
     padding: 0 20px;
+}
+
+/* ✅ NEON COLORS */
+.neon-text {
+    color: #00eaff;
+    text-shadow: 0 0 10px #00eaff;
+}
+
+.btn-neon {
+    background-color: #00eaff;
+    color: #000;
+    border: none;
+    transition: 0.3s;
+}
+.btn-neon:hover {
+    background-color: #00bcd4;
+    color: #000;
+}
+
+.btn-outline-neon {
+    border: 2px solid #00eaff;
+    color: #00eaff;
+}
+.btn-outline-neon:hover {
+    background-color: #00eaff;
+    color: #000;
 }
 
 /* ✅ FEATURE BOXES */
@@ -25,15 +59,5 @@
 
 /* ✅ TESTIMONIALS */
 .testimonial {
-    background: #f8f9fa;
-    border-left: 4px solid #3b82f6;
-}
-
-/* ✅ BUTTONS */
-.btn-primary {
-    background-color: #3b82f6;
-    border: none;
-}
-.btn-primary:hover {
-    background-color: #2563eb;
+    border-left: 4px solid #00eaff;
 }
