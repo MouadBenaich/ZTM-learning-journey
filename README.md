@@ -160,6 +160,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Git & GitHub basics  
 - JavaScript fundamentals  
 - Build and deploy a simple static page  
+- Build a full website using Bootstrap 
 
 ---
 
