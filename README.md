@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~21%**
+**Current completion: ~23%**
 
 ### ✅ Completed Modules
 
@@ -128,6 +128,20 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 9, 2025**
+#### **Deployment, Templates & Developer Fundamentals IV**
+- Quick Note: Upcoming Videos  
+- Exercise: Putting Your Website Online (5m 48s)  
+- Exercise: Putting Your Website Online 2 (2m 50s)  
+- Quick Note: Upcoming Video  
+- Developer Fundamentals IV (7m 15s)  
+- Using Templates (3m 18s)  
+- Resources for FREE Templates  
+- Startup Landing Pages by Students  
+- Using A.I. Tools and Your Portfolio (11m 39s)
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -152,7 +166,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 6, 2025](progress/2025-12-06.md)  
 - [December 7, 2025](progress/2025-12-07.md)  
 - [December 8, 2025](progress/2025-12-08.md)  
-
+- [December 9, 2025](progress/2025-12-09.md)
 ---
 
 ## 🔜 Next Up
@@ -160,7 +174,8 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Git & GitHub basics  
 - JavaScript fundamentals  
 - Build and deploy a simple static page  
-- Build a full website using Bootstrap 
+- Build a full website using Bootstrap  
+- Start working with templates & portfolio structure  
 
 ---
 
@@ -169,4 +184,5 @@ Each study session gets a dated log in `progress/` containing:
 - Topic covered  
 - Key takeaways  
 - Practice completed  
-- Questions or blockers  
+- Questions or blockers
+
