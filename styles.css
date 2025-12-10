@@ -1,0 +1,63 @@
+/* ✅ GLOBAL FONT */
+body {
+    font-family: 'JetBrains Mono', monospace;
+}
+
+/* ✅ HERO SECTION WITH BACKGROUND IMAGE */
+.hero {
+    height: 90vh;
+    background: url('https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80')
+        center/cover no-repeat;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-align: center;
+    padding: 0 20px;
+}
+
+/* ✅ NEON COLORS */
+.neon-text {
+    color: #00eaff;
+    text-shadow: 0 0 10px #00eaff;
+}
+
+.btn-neon {
+    background-color: #00eaff;
+    color: #000;
+    border: none;
+    transition: 0.3s;
+}
+.btn-neon:hover {
+    background-color: #00bcd4;
+    color: #000;
+}
+
+.btn-outline-neon {
+    border: 2px solid #00eaff;
+    color: #00eaff;
+}
+.btn-outline-neon:hover {
+    background-color: #00eaff;
+    color: #000;
+}
+
+/* ✅ FEATURE BOXES */
+.feature-box {
+    transition: transform 0.3s ease;
+}
+.feature-box:hover {
+    transform: translateY(-5px);
+}
+
+/* ✅ PRICING CARDS */
+.pricing-card {
+    transition: transform 0.3s ease;
+}
+.pricing-card:hover {
+    transform: scale(1.03);
+}
+
+/* ✅ TESTIMONIALS */
+.testimonial {
+    border-left: 4px solid #00eaff;
+}
