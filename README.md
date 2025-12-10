@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~23%**
+**Current completion: ~25%**
 
 ### ✅ Completed Modules
 
@@ -142,6 +142,26 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 10, 2025**
+#### **CSS Grid + CSS Layout (1h 15m)**
+- Section overview (1m 51s)  
+- CSS Grid vs Flexbox vs Bootstrap (4m 40s)  
+- Quick Note: `grid-gap` → `gap`  
+- CSS Grid 1 (7m 55s)  
+- CSS Grid 2 (4m 14s)  
+- CSS Grid 3 (6m 25s)  
+- CSS Grid 4 (7m 07s)  
+- CSS Grid 5 (1m 56s)  
+- Optional Exercise: CSS Grid  
+- Exercise: CSS Layout (3m 37s)  
+- Solution: Navigation Bar (8m 37s)  
+- Solution: Navigation Bar 2 (4m 22s)  
+- Solution: Cover (4m 41s)  
+- Solution: Project Grid + Footer (8m 54s)  
+- Quick Note: Upcoming Video  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -166,7 +186,9 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 6, 2025](progress/2025-12-06.md)  
 - [December 7, 2025](progress/2025-12-07.md)  
 - [December 8, 2025](progress/2025-12-08.md)  
-- [December 9, 2025](progress/2025-12-09.md)
+- [December 9, 2025](progress/2025-12-09.md)  
+- [December 10, 2025](progress/2025-12-10.md)  
+
 ---
 
 ## 🔜 Next Up
@@ -184,5 +206,4 @@ Each study session gets a dated log in `progress/` containing:
 - Topic covered  
 - Key takeaways  
 - Practice completed  
-- Questions or blockers
-
+- Questions or blockers  
