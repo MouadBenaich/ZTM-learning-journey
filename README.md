@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~25%**
+**Current completion: ~28%**
 
 ### ✅ Completed Modules
 
@@ -162,6 +162,21 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 11, 2025**
+#### **CSS Grid + CSS Layout (continued)**
+- Solution: Prettify (7m 00s)  
+- Resources: CSS Guide  
+- The Truth About CSS (3m 51s)  
+
+#### **Career of a Web Developer (45m 03s)**
+- 2026 Updated Statistics  
+- Career of a Web Developer (14m 25s)  
+- Web Developer Roadmap  
+- Quick Note: Upcoming Video  
+- What If I Don’t Have Enough Experience? (21m 30s)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -188,6 +203,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 8, 2025](progress/2025-12-08.md)  
 - [December 9, 2025](progress/2025-12-09.md)  
 - [December 10, 2025](progress/2025-12-10.md)  
+- [December 11, 2025](progress/2025-12-11.md)  
 
 ---
 
