@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~28%**
+**Current completion: ~31%**
 
 ### ✅ Completed Modules
 
@@ -177,6 +177,15 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 12, 2025**
+#### **JavaScript (2h 41m)**
+- Introduction to JavaScript (1m 36s)  
+- What Is JavaScript? (5m 33s)  
+- **New JavaScript Features**  
+- **Your First JavaScript (11m 41s)**  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -201,16 +210,16 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 6, 2025](progress/2025-12-06.md)  
 - [December 7, 2025](progress/2025-12-07.md)  
 - [December 8, 2025](progress/2025-12-08.md)  
-- [December 9, 2025](progress/2025-12-09.md)  
+- [December 9, 2025](progress/2025-12-09.md)
 - [December 10, 2025](progress/2025-12-10.md)  
 - [December 11, 2025](progress/2025-12-11.md)  
+- [December 12, 2025](progress/2025-12-12.md)
 
 ---
 
 ## 🔜 Next Up
-- Continue CSS (layout, responsive design)  
+- Continue JavaScript fundamentals  
 - Git & GitHub basics  
-- JavaScript fundamentals  
 - Build and deploy a simple static page  
 - Build a full website using Bootstrap  
 - Start working with templates & portfolio structure  
