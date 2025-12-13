@@ -92,6 +92,8 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Optional: PX, EM, REM, %, VW, VH  
 - CSS Quiz  
 
+---
+
 #### **Advanced CSS (23m 07s)**
 - Critical Render Path (3m 57s)  
 - Code-Along Images  
@@ -181,8 +183,22 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 #### **JavaScript (2h 41m)**
 - Introduction to JavaScript (1m 36s)  
 - What Is JavaScript? (5m 33s)  
-- **New JavaScript Features**  
-- **Your First JavaScript (11m 41s)**  
+- New JavaScript Features  
+- Your First JavaScript (11m 41s)
+
+---
+
+### **December 13, 2025**
+#### **JavaScript Fundamentals (continued — 2h 41m section)**
+- Exercise: Number, String, Boolean, Comparisons  
+- Variables (15m 09s) + practice  
+- Exercise: Variables  
+- Built a **Calculator App** (first interactive project 🎉)  
+- Control Flow (16m 36s) + Exercise: Keyless Car  
+- JavaScript on Our Webpage (9m 05s)  
+- Functions (23m 53s) + Improved Keyless Car logic  
+- Data Structures: Arrays (13m 06s) + Exercise  
+- Practiced array manipulation and iteration  
 
 ---
 
