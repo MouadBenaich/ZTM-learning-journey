@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~31%**
+**Current completion: ~35%**
 
 ### ✅ Completed Modules
 
@@ -199,6 +199,32 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Functions (23m 53s) + Improved Keyless Car logic  
 - Data Structures: Arrays (13m 06s) + Exercise  
 - Practiced array manipulation and iteration  
+
+---
+
+### **December 14, 2025**
+#### **JavaScript Fundamentals (continued — 2h 41m section)**
+- Data Structures: Objects (15m 25s)  
+- Exercise: Objects & Arrays for Facebook App  
+- Exercise: Build Facebook (11m 16s)  
+- JavaScript Terminology (3m 43s)  
+- Loops (22m 22s)  
+- Exercise: Build Facebook 2 (8m 03s)  
+- JavaScript Keywords (3m 02s)  
+- Section Outline Document  
+
+#### **DOM Manipulation (1h 24m)**
+- Document Object Model (8m 42s)  
+- DOM Selectors (17m 12s)  
+- Exercise: DOM Selectors  
+- DOM Events (26m 57s)  
+- Note: Callback Functions  
+- Exercise: DOM Events  
+- Solution: DOM Events  
+- Exercise: Background Generator (19m 25s)  
+- Background Generator Files  
+- jQuery (6m 49s)  
+- Developer Fundamentals V (4m 46s)  
 
 ---
 
