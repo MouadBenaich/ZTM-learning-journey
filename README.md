@@ -228,6 +228,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 15, 2025**
+#### **Advanced JavaScript (4h 30m)**
+- Scope (10m 25s) + Exercise  
+- Advanced Control Flow (11m 41s)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
