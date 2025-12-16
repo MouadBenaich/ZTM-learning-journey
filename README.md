@@ -235,6 +235,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 16, 2025**
+#### **Advanced JavaScript (4h 30m)**
+- ES5 and ES6 (26m 41s) + Exercise  
+- Advanced Functions (20m 04s)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
