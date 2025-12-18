@@ -244,8 +244,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ### **December 17, 2025**
 #### **Advanced JavaScript (4h 30m)**
- 
 - Advanced Arrays (16m 40s) + Exercise  
+
+---
+
+### **December 18, 2025**
+#### **Advanced JavaScript (4h 30m)** 
+- Advanced Objects (24m 51s)  
 
 ---
 
