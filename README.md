@@ -254,6 +254,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 19, 2025**
+#### **Advanced JavaScript (4h 30m)**
+- Pass By Value vs Pass By Reference (17m 06s)  
+- Type Coercion (9m 02s) 
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
