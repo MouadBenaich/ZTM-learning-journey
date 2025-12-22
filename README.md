@@ -273,6 +273,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 22, 2025**
+#### **Advanced JavaScript (4h 30m)** 
+- Note: ES9 + ES8 Async Await  
+- ES10 (ES2019) (16m 49s) + Exercise  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
