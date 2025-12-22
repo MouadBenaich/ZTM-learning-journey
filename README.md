@@ -317,6 +317,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 19, 2025](progress/2025-12-19.md)
 - [December 20, 2025](progress/2025-12-20.md)
 - [December 21, 2025](progress/2025-12-21.md)
+- [December 22, 2025](progress/2025-12-22.md)
 
 ---
 
