@@ -308,6 +308,24 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 28, 2025**
+#### **Advanced JavaScript (4h 30m)**
+- ES2024 (5m 49s)  
+- ES2025 and Beyond  
+- Updated Background Generator Project  
+- Debugging (8m 23s)  
+- How JavaScript Works (24m 12s)  
+- Modules (13m 19s)  
+- More Modules To Come!  
+- Exercise: Imposter Syndrome (2m 56s)  
+- Extra JavaScript Practice  
+
+#### **Command Line (10m 05s)**
+- For WINDOWS Users ONLY  
+- Quick Note: For Windows Users  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
