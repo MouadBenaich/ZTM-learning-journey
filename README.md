@@ -326,6 +326,22 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 29, 2025**
+#### **Command Line (10m 05s)**  
+- Using The Terminal (10m 05s)  
+- Exercise: Practice Using The Terminal  
+
+#### **Developer Environment (23m 00s)**
+- Sublime Text (9m 29s)  
+- Resources: Customizing Sublime Text  
+- VS Code (6m 55s)  
+- Resources: Customizing VS Code  
+- Terminal (6m 36s)  
+- Resources: Customizing Terminal  
+- For Windows: Customizing Git Bash  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
