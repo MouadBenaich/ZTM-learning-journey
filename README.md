@@ -342,6 +342,20 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **December 30, 2025**
+#### **Git + Github + Open Source Projects (58m 20s)**
+- Installing Git  
+- Git + Github Part 1 (17m 40s)  
+- Github Update: Master --> Main  
+- Git + Github Part 2 (16m 52s)  
+- My Terminal Setup  
+- Contributing To Open Source (14m 08s)  
+- Contributing To Open Source 2 (9m 40s)  
+- Exercise: Contribute To Our Open Source  
+- Keeping Your Fork Up To Date  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
