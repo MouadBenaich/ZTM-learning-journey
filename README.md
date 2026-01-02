@@ -356,6 +356,15 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 2, 2026**
+#### React.js Fundamentals (v19) — 3h 29m
+- Introduction To React.js (12m 21s)
+- React History & Latest Version (v19) (5m 22s)
+- Files For This Section
+- Create React App (7m 05s)
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -401,6 +410,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 28, 2025](progress/2025-12-28.md)
 - [December 29, 2025](progress/2025-12-29.md)
 - [December 30, 2025](progress/2025-12-30.md)
+- [January 2, 2026](progress/2026-01-02.md)
 
 ---
 
