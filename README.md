@@ -365,6 +365,17 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 3, 2026**
+#### React.js Fundamentals (v19) — 4h 10m
+- Service Worker Setup & Fixes
+- ReportWebVitals Integration
+- Migrated index.js to React 18 (createRoot)
+- Card Component Rendering
+- Robot Image Randomization Fix
+- Tachyons Styling Applied
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
