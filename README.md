@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~35%**
+**Current completion: ~60%**
 
 ### ✅ Completed Modules
 
@@ -376,6 +376,17 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 4, 2026**
+#### React.js Fundamentals (v19) — Continued
+- JSX & Rendering Elements  
+- Components & Props  
+- State & Lifecycle Methods  
+- Handling Events in React  
+- Conditional Rendering  
+- Lists & Keys  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
@@ -423,6 +434,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [December 30, 2025](progress/2025-12-30.md)
 - [January 2, 2026](progress/2026-01-02.md)
 - [January 3, 2026](progress/2026-01-03.md)
+- [January 4, 2026](progress/2026-01-04.md)
 
 ---
 
