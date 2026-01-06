@@ -395,6 +395,18 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 7, 2026**
+#### Extra Learning: React Hooks — Continued
+- React Hooks 4 (4:01)  
+- React Hooks 5 (3:45)  
+- React Hooks 6 (6:54)  
+- React Hooks 7 (9:16)  
+- React Hooks 8 (4:48)  
+- Project Files — Hooks  
+- React Hooks 9 (5:58)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
