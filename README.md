@@ -456,6 +456,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - [January 3, 2026](progress/2026-01-03.md)
 - [January 4, 2026](progress/2026-01-04.md)
 - [January 5, 2026](progress/2026-01-05.md)
+- [January 6, 2026](progress/2026-01-06.md)
 
 ---
 
