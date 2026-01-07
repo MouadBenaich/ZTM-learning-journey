@@ -407,6 +407,14 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 8, 2026**
+#### React Hooks — Deep Dive 
+- Practiced creating custom hooks for reusability  
+- Combined multiple hooks in a single component  
+- Explored debugging strategies for hook-based components  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
