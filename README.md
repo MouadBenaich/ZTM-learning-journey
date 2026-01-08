@@ -407,11 +407,30 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-### **January 7, 2026**
+### **January 8, 2026**
 #### React Hooks — Deep Dive 
 - Practiced creating custom hooks for reusability  
 - Combined multiple hooks in a single component  
 - Explored debugging strategies for hook-based components  
+
+---
+
+### **January 9, 2026**
+#### HTTP/JSON/AJAX + Asynchronous JavaScript (1h 39m)
+- HTTP/HTTPS (19m 58s)  
+- JSON (7m 25s)  
+- JSON vs Form Data  
+- AJAX (13m 37s)  
+- Quick Note: Upcoming Video  
+- Promises (22m 26s)  
+- Exercise: Promises  
+- ES8 — Async/Await (15m 22s)  
+- Exercise: ES8 — Async/Await  
+- ES9 (ES2018) (5m 21s)  
+- ES9 (ES2018) — Async (11m 11s)  
+- ES2020: `allSettled()` (4m 22s)  
+- ES2021: `any()`  
+- Reviewed ES6 → ES11 features  
 
 ---
 
