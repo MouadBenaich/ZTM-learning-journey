@@ -395,7 +395,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-### **January 7, 2026**
+### **January 6, 2026**
 #### Extra Learning: React Hooks — Continued
 - React Hooks 4 (4:01)  
 - React Hooks 5 (3:45)  
@@ -407,7 +407,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-### **January 8, 2026**
+### **January 7, 2026**
 #### React Hooks — Deep Dive 
 - Practiced creating custom hooks for reusability  
 - Combined multiple hooks in a single component  
@@ -415,7 +415,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-### **January 9, 2026**
+### **January 8, 2026**
 #### HTTP/JSON/AJAX + Asynchronous JavaScript (1h 39m)
 - HTTP/HTTPS (19m 58s)  
 - JSON (7m 25s)  
@@ -431,6 +431,19 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - ES2020: `allSettled()` (4m 22s)  
 - ES2021: `any()`  
 - Reviewed ES6 → ES11 features  
+
+---
+
+### **January 9, 2026**
+#### Backend Introduction + APIs + Problem Solving
+- Backend Basics (12m 07s)  
+- Getting Ready For This Section  
+- Introduction to APIs (13m 31s)  
+- Exercise: Web App API  
+- Resources: Public APIs  
+- Snapshot Model of Learning (6m 16s)  
+- Deliberate Practice (6m 33s)  
+- Exercise: Deliberate Practice  
 
 ---
 
