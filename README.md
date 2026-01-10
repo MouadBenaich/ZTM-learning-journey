@@ -447,6 +447,21 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 10, 2026**
+#### Final Project: SmartBrain Front-End
+- What We Are Building (1m 49s)  
+- DEVELOPER FUNDAMENTALS: Maintain Your Codebase (18m 11s)  
+- Quick Note: React Tilt + React Particles  
+- Building Our Components (36m 19s)  
+- Introducing our Machine Learning API (3m 57s)  
+- Resource: Clarifai API Docs  
+- Before We Start The Big Part (5m 46s)  
+- Quick Note: Next 3 Lectures  
+- JUST WATCH: Testing Our API (7m 39s)  
+- Reading Documentation Like a Pro (14m 23s)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
