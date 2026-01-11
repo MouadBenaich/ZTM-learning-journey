@@ -462,6 +462,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 11, 2026**
+#### Final Project: SmartBrain Front-End
+- Exercise: Coding Your Image Recognition API (28m 33s)  
+- Face Detection Box (23m 46s)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
