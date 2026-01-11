@@ -528,11 +528,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 🔜 Next Up
-- Continue JavaScript fundamentals  
-- Git & GitHub basics  
-- Build and deploy a simple static page  
-- Build a full website using Bootstrap  
-- Start working with templates & portfolio structure  
+- Expand SmartBrain Front-End with multiple face detection support  
+- Learn best practices for handling API keys securely in React  
+- Continue advancing JavaScript fundamentals and modern ES features  
+- Deepen Git & GitHub workflows (branches, pull requests, open source contributions)  
+- Build and deploy a polished static page with Vercel  
+- Create a full website using Bootstrap and responsive layouts  
+- Start refining templates and portfolio structure for recruiter appeal  
 
 ---
 
