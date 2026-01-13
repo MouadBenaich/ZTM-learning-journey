@@ -471,6 +471,12 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ### **January 12, 2026**
 #### Final Project: SmartBrain Front-End
+- Building the Sign-In Form (22m 41s)  
+
+---
+
+### **January 12, 2026**
+#### Final Project: SmartBrain Front-End
 - Customizing your App (4:29)  
 
 ---
