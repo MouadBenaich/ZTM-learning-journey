@@ -481,6 +481,12 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 13, 2026**
+#### Final Project: SmartBrain Front-End
+- Customizing your App (4:29)  
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
