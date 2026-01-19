@@ -481,10 +481,9 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-### **January 13, 2026**
+### **January 14, 2026**
 #### Final Project: SmartBrain Front-End
-- Customizing your App (4:29)  
-
+- Project Files: Github
 ---
 
 ### **January 19, 2026**
