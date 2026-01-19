@@ -6,7 +6,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📚 Course Progress  
-**Current completion: ~64%**
+**Current completion: ~74%**
 
 ### ✅ Completed Modules
 
