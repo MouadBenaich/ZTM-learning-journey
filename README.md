@@ -498,6 +498,23 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 25, 2026**
+#### Node.js + Express.js(2h 4m)
+- Introduction To Node.js (5:54)
+- fetch() in Node
+- Latest Version of Node.js
+- For Windows Users
+- Running script.js In Node (3:05)
+- ES2020: globalThis (3:14)
+- Modules In Node (4:22)
+- ES6 Modules??
+- ES6 Modules In Node (8:59)
+- ES2022: Top Level Await (3:46)
+- Exercise: ES2022 Top Level Await
+- ES2022: Await Import (5:05)
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
