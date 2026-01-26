@@ -515,6 +515,24 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **January 25, 2026**
+#### Node.js + Express.js(2h 4m)
+- Types of Modules (5:10)
+- node --watch
+- Building a Server (8:25)
+- Introduction to Express.js (8:57)
+- Express Middleware (2:59)
+- Express Version Update
+- Postman (8:13)
+- Quick Note: req.header
+- RESTful APIs (11:22)
+- Node File System Module (20:11)
+- Exercise: Santa's Node Helper (4:02)
+- Exercise Resources: Santa's Node Helper
+- Solution: Santa's Node Helper (20:51)
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–45 minutes  
 - **Weekly goal:** 5 days/week  
