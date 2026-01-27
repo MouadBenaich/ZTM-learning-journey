@@ -515,7 +515,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-### **January 25, 2026**
+### **January 26, 2026**
 #### Node.js + Express.js(2h 4m)
 - Types of Modules (5:10)
 - node --watch
@@ -530,6 +530,14 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Exercise: Santa's Node Helper (4:02)
 - Exercise Resources: Santa's Node Helper
 - Solution: Santa's Node Helper (20:51)
+
+---
+
+### **January 27, 2026**
+#### FINAL PROJECT: SmartBrain Back-End -- Server (1h 33m)
+- Code Along: Project Files
+- Setting Up Our Server (10:20)
+- /signin and /register (18:31)
 
 ---
 
