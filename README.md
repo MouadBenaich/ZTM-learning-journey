@@ -614,7 +614,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Deepen Git & GitHub workflows (branches, pull requests, open source contributions)  
 - Build and deploy a polished static page with Vercel  
 - Create a full website using responsive layouts  
-- Start refining templates and portfolio structure for recruiter appeal  
+- Start refining templates and portfolio structure 
 
 ---
 
