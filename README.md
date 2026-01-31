@@ -543,7 +543,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–120 minutes  
-- **Weekly goal:**  days/week  
+- **Weekly goal:**  7 days/week  
 - **Anchor time:** 22:00 (Morocco)  
 
 ---
