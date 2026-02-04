@@ -619,7 +619,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 📝 How I Track Progress
-Each study session gets a dated log in `progress/` containing:
+Each study session gets a dated log in `progress/` containing :
 - Topic covered  
 - Key takeaways  
 - Practice completed  
