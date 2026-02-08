@@ -617,13 +617,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 ---
 
 ## 🔜 Next Up
-- Expand SmartBrain Front-End with multiple face detection support  
-- Learn best practices for handling API keys securely in React  
-- Continue advancing JavaScript fundamentals and modern ES features  
-- Deepen Git & GitHub workflows (branches, pull requests, open source contributions)  
-- Build and deploy a polished static page with Vercel  
-- Create a full website using responsive layouts  
-- Start refining templates and portfolio structure 
+- Expand SmartBrain Front-End with multiple face detection support.
+- Learn best practices for handling API keys securely in React.
+- Continue advancing JavaScript fundamentals and modern ES features.
+- Deepen Git & GitHub workflows (branches, pull requests, open source contributions).
+- Build and deploy a polished static page with Vercel.
+- Create a full website using responsive layouts.
+- Start refining templates and portfolio structure.
 
 ---
 
