@@ -549,6 +549,13 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
+### **Febuary 10, 2026**
+#### FINAL PROJECT: SmartBrain Back-End -- Server (1h 33m)
+- Resource: Storing User Passwords Securely
+- onnecting To Our Front-End (21:07)
+
+---
+
 ## 🧠 Learning Routine
 - **Daily minimum:** 30–120 minutes  
 - **Weekly goal:**  7 days/week  
