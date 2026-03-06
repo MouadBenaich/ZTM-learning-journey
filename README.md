@@ -624,7 +624,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 
 ---
 
-## 🔜 Next Up
+## 🔜 Next Up 
 - Expand SmartBrain Front-End with multiple face detection support.
 - Learn best practices for handling API keys securely in React.
 - Continue advancing JavaScript fundamentals and modern ES features.
@@ -633,7 +633,7 @@ This repository tracks modules, exercises, notes, and reflections — capturing 
 - Create a full website using responsive layouts.
 - Start refining templates and portfolio structure.
 
----
+--- 
 
 ## 📝 How I Track Progress
 Each study session gets a dated log in `progress/` containing :
